@@ -1,2 +1,2 @@
 # EYRCTask4
-Upload all the files for task 4 here. 
+This repository is for the code development for the pre final round of E-yantra 2020 competition hosted by IIT Bombay
